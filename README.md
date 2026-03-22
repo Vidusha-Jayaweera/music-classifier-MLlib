@@ -1,5 +1,9 @@
 # Music Genre Classifier — Apache Spark MLlib
 
+## UI Preview
+
+![AI Music Classifier UI](./assets/ui-screenshot.png)
+
 A machine-learning application that classifies song lyrics into music genres using **Apache Spark MLlib** (Naive Bayes + TF-IDF). The project contains three main parts:
 
 1. **`scraper.py`** — scrapes Ska song lyrics from the Genius API and merges them with an existing Mendeley dataset to produce an 8-genre dataset.
